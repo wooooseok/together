@@ -9,5 +9,6 @@
 <body>
 	<h1>Together</h1>
 	<a href="<%= request.getContextPath() %>/helloworld">helloworld</a>
+	<a href="<%= request.getContextPath() %>/wooooseok">wooooseok</a>
 </body>
 </html>
